@@ -182,3 +182,9 @@ Alternatively you can join my Discord and create a ticket: https://corrosive.eu/
 
 ## License
 This project is written by **[Kaniggel](https://github.com/MyHwu9508)** and published under **MIT License**
+
+## Changes
+修复Menu.IndexChange事件第一个参数错误的问题
+添加ts声明文件
+Fix the issue of the first parameter error in the Menu.indexChange event
+Add ts declaration file
