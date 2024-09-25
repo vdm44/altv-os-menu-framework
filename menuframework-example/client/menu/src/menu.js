@@ -313,7 +313,7 @@ export class Menu {
 
     this.checkForInputItem();
 
-    this.indexChange.emit(this, this.currentIndex);
+    this.indexChange.emit(currentItem, this.currentIndex);
   }
 
   checkForInputItem() {
